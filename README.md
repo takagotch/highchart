@@ -2,7 +2,9 @@
 ---
 https://www.highcharts.com/
 
-```
+```js
+
+
 ```
 
 ```
